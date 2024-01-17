@@ -37,4 +37,4 @@ The following are the questions used to investigate the crime data to get all po
 18. Are certain types of locations or premises more prone to specific types of crimes?
 19. What is the distribution of crimes among offence type?
 
-The notebook housing the in-depth analysis can be found [here]()
+The notebook housing the in-depth analysis can be found [here](crime_analysis.ipynb)
